@@ -1,6 +1,6 @@
 (function() {
   var Player;
-
+ 
   document.addEventListener('DOMContentLoaded', function() {
     return new Player();
   }, false);
